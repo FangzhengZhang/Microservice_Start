@@ -16,7 +16,7 @@ public record CustomerService(CustomerRepository customerRepository,RestTemplate
         FraudCheckResponse fraudCheckResponse = restTemplate.getForObject(
                 "http://localhost:8081/api/v1/fraud-check/{customerId}",
                 FraudCheckResponse.class,
-                customer.id
+                customer.getId()
         );
         if(fraudCheckResponse.isFraud()){
             throw new IllegalStateException("Fraud!!!!!");
