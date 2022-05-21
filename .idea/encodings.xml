@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/mss/customer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mss/customer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mss/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mss/eureka-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mss/fraud/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mss/fraud/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mss/src/main/java" charset="UTF-8" />
